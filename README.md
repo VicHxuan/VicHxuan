@@ -121,7 +121,8 @@ Developing a LiDAR-based local waypoint planning framework for autonomous UAV na
 ## 📫 Links
 
 * **GitHub:** [ShangjinghangXUan](https://github.com/ShangjinghangXUan)
-* **Personal Website:** Coming Soon
+* **Personal Website:** [shangjinghangxuan.github.io](https://shangjinghangxuan.github.io/)
+* **Knowledge Tree & Open Tutorials:** [shangjinghangxuan.github.io/knowledge-tree](https://shangjinghangxuan.github.io/knowledge-tree/)
 
 ---
 
